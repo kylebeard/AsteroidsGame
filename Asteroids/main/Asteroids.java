@@ -1,9 +1,8 @@
 
 /*
+Kyle Beard
 CLASS: Asteroids
 DESCRIPTION: Extending Game, Asteroids is all in the paint method.
-NOTE: This class is the metaphorical "main method" of your program,
-      it is your control center.
 Original code by Dan Leyzberg and Art Simon
  */
 import java.awt.*;
