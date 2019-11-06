@@ -1,7 +1,4 @@
-/**
- *
- * Created by alex on 9/8/16.
- */
+
 import java.awt.*;
 
 public abstract class Circle implements Shape {
