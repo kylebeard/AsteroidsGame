@@ -1,7 +1,6 @@
 /**
  * Representation of a star
  * 
- * Created by alex .
  */
 import java.awt.*;
 
